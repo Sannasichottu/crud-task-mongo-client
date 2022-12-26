@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Righteous&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Andika:ital@0;1&display=swap");
+
+.form-create {
+  padding-top: 15px;
+  background-image: url("https://storage.needpix.com/rsynced_images/blurred-background-green.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.label {
+  color: rgb(101, 11, 171);
+  font-size: 25px;
+  font-family: "Andika", sans-serif;
+}
+
+.submit {
+  margin-left: 50%;
+  margin-top: 10px;
+}
+
+h2 {
+  margin-left: 40%;
+  font-family: "Righteous", cursive;
+  font-size: 78px;
+  color: darkgoldenrod;
+}
